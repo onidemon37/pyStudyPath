@@ -7,6 +7,6 @@ __author__ = "www.w3schools.com"
 def strReverse(x):
     return x[::-1]
 
-txt = strReverse( "Hello World a ver como se ve")
+txt = strReverse( "Hello World to see how it works")
 
 print(txt)
